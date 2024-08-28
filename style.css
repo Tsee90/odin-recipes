@@ -1,3 +1,9 @@
 h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    background-color: black;
+}
